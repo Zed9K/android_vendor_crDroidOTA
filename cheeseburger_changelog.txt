@@ -6,6 +6,13 @@ Device maintainer: Zed (Zed9K)
 ====================
      09-12-2024
 ====================
+- crDroid 11.0 Stable build
+- Upstream to latest changes by crDroid
+- Bug fixes
+
+====================
+     09-12-2024
+====================
 - Upstream to latest changes by crDroid
 - Bug fixes
 
