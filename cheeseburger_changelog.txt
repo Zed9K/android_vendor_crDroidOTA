@@ -1,5 +1,5 @@
 Highlights & Device Specific Changes:
-Build type: BETA
+Build type: Monthly
 Device: OnePlus 5 (cheeseburger)
 Device maintainer: Zed (Zed9K)
 
