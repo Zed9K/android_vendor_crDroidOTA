@@ -4,7 +4,7 @@ Device: OnePlus 5 (cheeseburger)
 Device maintainer: Zed (Zed9K)
 
 ====================
-     09-12-2024
+     20-12-2024
 ====================
 - crDroid 11.0 Stable build
 - Upstream to latest changes by crDroid
